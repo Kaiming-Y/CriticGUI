@@ -29,7 +29,9 @@ Human demonstrations let us reach these otherwise underrepresented states and co
 
 ## Collection workflow
 
-![Human demonstration workflow](assets/human-demonstration-workflow.png)
+![CriticGUI benchmark construction](assets/criticgui-benchmark-pipeline.png)
+
+The diagram summarizes the research design, including model-assisted reasons and candidate perturbations. The released CLI records and exports human-reviewed attempts; it does not automatically generate all illustrated augmentations.
 
 1. **Draft:** give an MLLM the user query and initial screenshot, optionally with a tutorial video/transcript. Generate a proposed plan.
 2. **Refine and freeze:** a human corrects ordering and UI details, splits non-atomic steps, and fixes the three-level hierarchy. A draft becomes a ground-truth plan only after review.
