@@ -6,7 +6,7 @@ CriticGUI studies state-aware, instruction-grounded evaluation of GUI actions. A
 
 [Project blog](https://kaiming-y.github.io/blog/criticgui/) · [WorldGUI agent](https://github.com/showlab/WorldGUI) · [WorldGUI website](https://showlab.github.io/WorldGUI/)
 
-![What a GUI critic does](assets/critic-model.png)
+![CriticGUI overview: agent exploration and human demonstrations](assets/overview.png)
 
 ## What this repository provides
 
@@ -26,7 +26,6 @@ Agent-only collection inherits the capabilities and exploration biases of the ex
 
 Human demonstrations let us reach these otherwise underrepresented states and control the granularity of each interaction. Deliberate, human-recorded perturbations then provide difficult contrasts: a wrong target, incorrect text, or a missing confirmation can look superficially plausible but fail the current instruction. Agent-generated examples remain useful; human collection broadens what they cover.
 
-![CriticGUI benchmark overview](assets/overview.png)
 
 ## Collection workflow
 
