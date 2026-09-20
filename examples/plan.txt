@@ -1,0 +1,8 @@
+# Illustrative plan: review against the actual application before recording.
+h0: Add a signature to the document.
+l0: Create the signature text.
+a0: Click the signature text field.
+a1: Type GUICritic into the signature text field.
+a2: Click the Apply button to confirm the signature.
+l1: Place the signature at the required location.
+a0: Click above the Signature of Student label to place the signature.

@@ -1,0 +1,5 @@
+# Needed only for live desktop recording. Offline plan/parse/export uses stdlib.
+pynput>=1.7,<2
+PyAutoGUI>=0.9.54,<1
+Pillow>=10
+obs-websocket-py==1.0

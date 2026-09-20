@@ -1,0 +1,30 @@
+[
+  {
+    "id": "h0l0a0",
+    "step_id": 0,
+    "high-level": "Add a signature to the document.",
+    "low-level": "Create the signature text.",
+    "atomic-level": "Click the signature text field."
+  },
+  {
+    "id": "h0l0a1",
+    "step_id": 1,
+    "high-level": "Add a signature to the document.",
+    "low-level": "Create the signature text.",
+    "atomic-level": "Type GUICritic into the signature text field."
+  },
+  {
+    "id": "h0l0a2",
+    "step_id": 2,
+    "high-level": "Add a signature to the document.",
+    "low-level": "Create the signature text.",
+    "atomic-level": "Click the Apply button to confirm the signature."
+  },
+  {
+    "id": "h0l1a0",
+    "step_id": 3,
+    "high-level": "Add a signature to the document.",
+    "low-level": "Place the signature at the required location.",
+    "atomic-level": "Click above the Signature of Student label to place the signature."
+  }
+]
